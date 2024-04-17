@@ -49,7 +49,8 @@ please contact the group leader(s).
 - Links: https://github.com/bioconductor/bioconductor-teaching
 - Slack: #education-and-training
 - Leads: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht
-- Current Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
+- Founding Members: Laurent Gatto, Charlotte Soneson, Kevin Rue-Albrecht, Jenny Drnevich, Robert Castelo, Toby Hodges, Susan Holmes
+- Current Members: Open to all. Join us! Details [here](https://www.bioconductor.org/help/education-training/).
 
 ## Governance
 
