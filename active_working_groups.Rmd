@@ -47,9 +47,9 @@ conference to conduct nominations and voting.
 - Description: The goal of this group is to develop standards and tools for the
   Bioconductor community that are related to the cloud.
 - Slack: #cloud-working-group
-- Leads: Alex Mahmoud, Jen Wokaty
-- Current Members: Levi Waldron, Marcel Ramos, Erdal Cosgun, Sridhar Srivatsan,
-  Brian Schilder, Vince Carey
+- Leads: Erdal Cosgun
+- Current Members: Mike Smith, Levi Waldron, Tyrone Lee, Marcel Ramos, Brian Schilder, 
+  Alex Mahmoud, Jen Wokaty, Ludwig Geistlinger, Sean Davis, Vince Carey
 
 ## EDAM collaboration
 
